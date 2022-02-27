@@ -1,0 +1,25 @@
+{
+  "name": "week6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "my-function.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepthi3101/week6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepthi3101/week6/issues"
+  },
+  "homepage": "https://github.com/deepthi3101/week6#readme",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "express": "^4.17.3"
+  }
+}
